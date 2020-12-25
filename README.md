@@ -6,15 +6,18 @@ After downloading the 2 files
 
  install praw, tweepy, pyshorteners by doing
 
-'''bash 
+```bash
 pip install praw
-''' 
-'''bash
+```
+
+```bash
 pip install tweepy
-'''
-'''bash
+```
+
+```bash
 pip install pyshorteners
-'''
+```
+
 
 You Need To Get Twitter, Reddit and Bitly API Keys
 
