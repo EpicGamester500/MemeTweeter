@@ -23,9 +23,9 @@ You Need To Get Twitter, Reddit and Bitly API Keys
 
 You can get them at :
 
-https://developer.twitter.com/en/application/use-case
-https://www.reddit.com/prefs/apps/
-https://support.bitly.com/hc/en-us/articles/230647907-How-do-I-generate-an-OAuth-access-token-for-the-Bitly-API-/
+https://developer.twitter.com/en/application/use-case<br />
+https://www.reddit.com/prefs/apps/<br />
+https://support.bitly.com/hc/en-us/articles/230647907-How-do-I-generate-an-OAuth-access-token-for-the-Bitly-API-/<br />
 
 after getting your API keys put them in the keys.py file
 
@@ -35,5 +35,5 @@ You Can Change the sub-reddit in keys.py
 Then You Can Run It
 
 TwitterBot Live on @Epic_Meme_bot <br />
-MemeTweetr made by EpicGamester500
-@BruhWhyYouMad_ on twitter
+MemeTweeter made by EpicGamester500 <br />
+@BruhWhyYouMad_ on twitter <br />
