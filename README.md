@@ -23,7 +23,7 @@ You Need To Get Twitter, Reddit and Bitly API Keys
 
 You can get them at :
 
-https://developer.twitter.com/en/application/use-case<br />
+https://developer.twitter.com/en/application/<br />
 https://www.reddit.com/prefs/apps/<br />
 https://support.bitly.com/hc/en-us/articles/230647907-How-do-I-generate-an-OAuth-access-token-for-the-Bitly-API-/<br />
 
