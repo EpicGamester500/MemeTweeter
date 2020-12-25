@@ -6,7 +6,7 @@ After downloading the 2 files
 
  install praw, tweepy, pyshorteners by doing
 
-'''bash
+'''bash 
 pip install praw
 '''
 '''bash
