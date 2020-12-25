@@ -22,9 +22,9 @@ pip install pyshorteners
 You Need To Get Twitter, Reddit and Bitly API Keys
 
 You can get them at :
-https://developer.twitter.com/en/application/use-case
-https://www.reddit.com/prefs/apps/
-https://support.bitly.com/hc/en-us/articles/230647907-How-do-I-generate-an-OAuth-access-token-for-the-Bitly-API-
+https://developer.twitter.com/en/application/use-case/n
+https://www.reddit.com/prefs/apps//n
+https://support.bitly.com/hc/en-us/articles/230647907-How-do-I-generate-an-OAuth-access-token-for-the-Bitly-API-/n
 
 after getting your API keys put them in the keys.py file
 
