@@ -2,9 +2,9 @@
 A Meme Tweeter that gets memes from reddit and tweets them to twitter
 
 # Requirements
-You Need PRAW, Tweepy, 
+You Need PRAW, Tweepy and PyShorteners
 
- install praw, tweepy, pyshorteners by doing
+ install PRAW, Tweepy, PyShorteners by doing
 
 ```bash
 pip install praw
