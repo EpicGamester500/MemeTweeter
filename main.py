@@ -76,9 +76,3 @@ tweet_meme(image_url=meme_4.url, message=meme_4.title + ' ' + meme_4_link)
 tweet_meme(image_url=meme_5.url, message=meme_5.title + ' ' + meme_5_link)
 
 print('Memes Tweeted : )')
-
-
-
-
-
-
