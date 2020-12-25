@@ -4,11 +4,17 @@ A Meme Tweeter that gets memes from reddit and tweets them to twitter
 # Installing It 
 After downloading the 2 files
 
-install praw, tweepy, pyshorteners by doing
+ install praw, tweepy, pyshorteners by doing
 
+'''bash
 pip install praw
+'''
+'''bash
 pip install tweepy
+'''
+'''bash
 pip install pyshorteners
+'''
 
 You Need To Get Twitter, Reddit and Bitly API Keys
 
