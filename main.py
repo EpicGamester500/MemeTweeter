@@ -3,15 +3,9 @@ import tweepy
 import requests
 import pyshorteners
 import praw
+from keys import *
+from options import *
 from time import sleep
-
-API_KEY = os.getenv('API_KEY')
-CONSUMER_KEY = os.getenv('CONSUMER_KEY')
-CONSUMER_SECRET = os.getenv('CONSUMER_SECRET')
-ACCESS_KEY = os.getenv('ACCESS_KEY')
-ACCESS_SECRET = os.getenv('ACCESS_SECRET')
-CLIENT_ID = os.getenv('CLIENT_ID')
-CLIENT_SECRET = os.getenv('CLIENT_SECRET')
 
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
@@ -68,6 +62,8 @@ meme_2_link = s.bitly.short('https://reddit.com' + meme_2.permalink)
 meme_3_link = s.bitly.short('https://reddit.com' + meme_3.permalink)
 meme_4_link = s.bitly.short('https://reddit.com' + meme_4.permalink)
 meme_5_link = s.bitly.short('https://reddit.com' + meme_5.permalink)
+
+
 
 tweet_meme(image_url=meme_1.url, message=meme_1.title + ' ' + meme_1_link)
 tweet_meme(image_url=meme_2.url, message=meme_2.title + ' ' + meme_2_link)
