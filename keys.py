@@ -1,8 +1,7 @@
-CONSUMER_KEY = IS488PD7NanKxLr7AHTwk33EX
-CONSUMER_SECRET = TCzkBrtjxYU1m2i5wSeIuwyoVniFS1vficaYDfROdlo51a54r1
-ACCESS_KEY = 1341021060322377728-gnfA0nCraH3wbLPEiOiD03MR4hrGne
-ACCESS_SECRET = di1YEkTepeImXld7nVwVIyyzjKQ2Ve7HDWZ51rcCMFdrc
-TOKEN = Nzg4NjU0MjE0NjQwNjk3MzY1.X9mpeQ.6IwjIAtuu77pVeuly2vWrDA8grs
-CLIENT_ID="q0NliLq94yzJ0A"
-CLIENT_SECRET = "HqOybjTmMX63yyxKbqJ4OaxgH_SSYA"
-API_KEY = c3ac1943b20ef9d695db25c995c015363b82b246
+CONSUMER_KEY = 'put your twitter api key here'
+CONSUMER_SECRET = 'put your twitter api secret here'
+ACCESS_KEY = 'put your twitter access key here'
+ACCESS_SECRET = 'put your twitter access secret here'
+CLIENT_ID = 'put your reddit client id here'
+CLIENT_SECRET = 'put your reddit client secret here'
+API_KEY = 'put your bitly api key here'
